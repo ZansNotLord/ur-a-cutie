@@ -17,7 +17,7 @@
     "next": "^12.3.1", 
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-feather": "^3.0.0",
+    "react-feather": "latest",
     "react-loader-spinner": "^5.1.0",
     "react-loading-skeleton": "^3.1.0"
   },
