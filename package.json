@@ -22,7 +22,7 @@
     "react-loading-skeleton": "^3.1.0"
   },
   "devDependencies": {
-    "@next/bundle-analyzer": "^12.3.1", // Align with Next.js version
+    "@next/bundle-analyzer": "^12.3.1",
     "cross-env": "^7.0.3"
   }
 }
